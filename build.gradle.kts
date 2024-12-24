@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter
 import java.time.LocalDateTime
 
 plugins {
-    kotlin("jvm") version "1.8.22"
+    kotlin("jvm") version "2.1.0"
     id("me.champeau.jmh") version "0.7.2"
 }
 
